@@ -43,7 +43,7 @@ body {
 <h2> Images</h2>
 <p>dog:</p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzX6pIUOxM01_55Qh7iPjOwTnMiVCs16AjSIscIzNaSg&s" Height="300"
+<img url="https://www.freepnglogos.com/uploads/dog-png/dog-png-cute-puppies-images-clkerm-vector-clip-2.png" Height="300"
 
 </body>
 </html>
@@ -53,5 +53,8 @@ body {
 <body>
 
 <p>this is a pic of a dog thanks for looking at my website.</p>
+
+
+
 
 
